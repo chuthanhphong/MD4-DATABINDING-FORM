@@ -1,0 +1,8 @@
+configuration/ApplicationConfig.java
+ configuration.ApplicationConfig
+configuration/AppInitializer.java
+ configuration.AppInitializer
+Controller/EmailController.java
+ Controller.EmailController
+model/Email.java
+ model.Email
